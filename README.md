@@ -1,4 +1,4 @@
-# <h1 align="center"> Literalura Biblioteca de Livros - Challenge ONE - Back end
+# <h1 align="center"> Literalura - Challenge ONE - Back end
 
 # Indíce
 * [Descrição do Projeto](#descrição-do-projeto)
